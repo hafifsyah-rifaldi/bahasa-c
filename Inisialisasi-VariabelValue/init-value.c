@@ -5,8 +5,12 @@
 int main()
 
 { /*Kamus*/
-    int i =5; //deklarasi dan inisialisasi nilai variabel 1 dengan 5
+    int bebek=10; /* bebek ada 10*/
+    float luas=2.5; /* luas kebun 2.5 hektar*/
+    float keliling=2*3.14*5.5; //keliling sebuah lingkaran yang jari-jarinya 5.5 cm
 /* Algoritma */
-printf("Ini nilai i : %d \n", i); /* Untuk mengamati dampak inisialisasi */
+printf("Ini jumlah bebek : %d \n", bebek); /* Untuk mengamati dampak inisialisasi */
+printf("Ini hasil luas : %i \n", luas); /* Untuk mengamati dampak inisialisasi */
+printf("Ini hasil keliling  : %d \n", keliling ); /* Untuk mengamati dampak inisialisasi */
 return 0;
 }
