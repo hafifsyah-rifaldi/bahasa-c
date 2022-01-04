@@ -1,11 +1,12 @@
 /* File : halo.c */
-/* Penulis : Fal */
+/* Penulis : Hafif */
 /* Program menuliskan "Halo Dunia! " dan "end-of-line" (ganti baris)*/
 
 #include<stdio.h>
 int
 main(void)
 {/* Badan Program */
-    printf("Halo Dunia!\n "
+    printf("Hello World!\n "
+    "Rose are Red \n Violet are Blue\n"
     );
     }
