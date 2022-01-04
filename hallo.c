@@ -4,9 +4,12 @@
 
 #include<stdio.h>
 int
-main(void)
-{/* Badan Program */
+main()
+
+{/* KAMUS */
+
+/* AlGORITMA */
     printf("Hello World!\n "
-    "Rose are Red \n Violet are Blue\n"
-    );
+    "Rose are Red \n Violet are Blue\n");
+    return 0;
     }
